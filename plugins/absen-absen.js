@@ -5,7 +5,7 @@ let handler = async (m, { usedPrefix }) => {
 
     let absen = conn.absen[id][1]
     const wasVote = absen.includes(m.sender)
-    if (wasVote) throw '*Kamu sudah absen bang！🙄*'
+    if (wasVote) throw '*Kamu sudah absen Tau~ 🙄*'
     absen.push(m.sender)
     m.reply(`Done!`)
     let d = new Date
