@@ -4,33 +4,31 @@ import { fileURLToPath } from 'url'
 
 /*============== INFO OWNER ==============*/
 global.link = {
-	ig: 'https://instagram.com/_xwby_',
-	gh: 'https://linkbio.co/VLShop',
-	gc: 'https://chat.whatsapp.com/FnqsUPu0FsTInf5UFJ9yLe',
-	web: 'https://linkbio.co/VLShop',
+	ig: '-',
+	gh: '-',
+	gc: '-',
+	web: '-',
 	nh: 'https://nhentai.net/g/365296/'
 }
 
 /*============== PAYMENT ==============*/
 global.pay = {
-	dana: '082389924037',
-	ovo: '082389924037',
-	gopay: '082389924037',
-	pulsa: '082389924037',
+	dana: '0895359831246',
+	pulsa: '0895359831246',
 	qris: 'https://telegra.ph/file/636b0b1730da1923dce35.jpg'
 }
 
 /*============== NOMOR ==============*/
 global.info = {
-	nomorbot: '6283896757956',
-	nomorown: '6289518965891',
-	namebot: 'VynaaMD 10.10',
-	nameown: 'Vynα Vαlerié.'
+	nomorbot: '62895359831246',
+	nomorown: '628975626924',
+	namebot: 'FILIA',
+	nameown: 'SenR.'
 }
 
 /*============== STAFF ==============*/
 global.owner = [
-    ['6289518965891', 'Vynα Vαlerié', 'true']
+    ['628975626924', 'SenR', 'true']
     // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -59,8 +57,8 @@ global.APIKeys = {
 }
 
 /*============== WATERMARK ==============*/
-global.wm = '© VynaaMD 10.9' //Main Watermark
-global.author = 'Vynα Vαlerié.'
+global.wm = 'F I L I A' //Main Watermark
+global.author = 'SenR'
 
 /*============== TEXT ==============*/
 global.wait = '_In Progress_, _Tunggu Ya kak..._'
@@ -331,7 +329,7 @@ global.hwaifu = [
 
 /*============== STICKER WM ==============*/
 global.stickpack = 'Made With'
-global.stickauth = 'VynaaMD 10.10'
+global.stickauth = 'SenR'
 
 global.multiplier = 38 // The higher, The harder levelup
 
